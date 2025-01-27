@@ -27,6 +27,7 @@ The project is designed to automatically deploy your work whenever changes are p
 This project includes:
 - **`index.html`**: A simple landing page.
 - **`.github/workflows/deploy.yml`**: GitHub Actions workflow for automated deployments.
+- View **`https://roadmap.sh/projects/github-actions-deployment-workflow`** for the full project overview
 
 ---
 
